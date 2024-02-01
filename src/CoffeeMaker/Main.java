@@ -5,4 +5,5 @@ public class Main {
         CoffeeMachine makeCoffee = new CoffeeMachine();
         makeCoffee.start();
     }
+
 }
