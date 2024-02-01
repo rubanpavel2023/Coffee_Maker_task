@@ -2,7 +2,7 @@ package CoffeeMaker;
 
 import java.util.Scanner;
 
-public class CoffeeMachineView {
+public class CoffeeMachine {
     private Scanner scanner = new Scanner(System.in);
     private CoffeeMaker coffeeMaker = new CoffeeMaker();
 
